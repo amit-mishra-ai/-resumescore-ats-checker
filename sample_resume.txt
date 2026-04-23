@@ -1,0 +1,59 @@
+SAMPLE TEST RESUME — Copy this to create a test DOCX/PDF
+
+────────────────────────────────────────────
+PRIYA SHARMA
+priya.sharma@email.com | +91-98765-43210
+LinkedIn: linkedin.com/in/priyasharma | GitHub: github.com/priyasharma
+Bengaluru, India
+────────────────────────────────────────────
+
+PROFESSIONAL SUMMARY
+Full-stack software engineer with 4+ years of experience building scalable web applications.
+Passionate about clean code, developer experience, and shipping products users love.
+Experienced in React, Node.js, Python, and cloud-native architectures.
+
+WORK EXPERIENCE
+
+Senior Software Engineer — Razorpay (2022 – Present)
+• Built a real-time payment dashboard with React and WebSockets serving 50,000+ daily users
+• Reduced API response time by 38% through PostgreSQL query optimization and Redis caching
+• Led a team of 4 engineers to deliver a merchant onboarding flow 2 weeks ahead of schedule
+• Implemented CI/CD pipelines using GitHub Actions, reducing deployment time by 65%
+• Mentored 3 junior engineers through weekly code reviews and pair programming sessions
+
+Software Engineer — Swiggy (2020 – 2022)
+• Developed RESTful APIs in Python/Flask for the order tracking microservice (10M+ requests/day)
+• Built an internal analytics dashboard in Vue.js that improved ops team efficiency by 25%
+• Migrated legacy monolith services to Docker/Kubernetes, improving system uptime to 99.95%
+• Collaborated with product and design teams using Agile/Scrum methodology
+
+EDUCATION
+B.Tech in Computer Science & Engineering
+National Institute of Technology, Trichy | 2016–2020 | CGPA: 8.7/10
+
+SKILLS
+Languages: Python, JavaScript, TypeScript, SQL, Bash
+Frontend: React, Vue.js, Next.js, HTML, CSS, TailwindCSS
+Backend: Node.js, Express, Flask, FastAPI, REST, GraphQL
+Databases: PostgreSQL, MongoDB, Redis, MySQL
+Cloud/DevOps: AWS (EC2, S3, Lambda), Docker, Kubernetes, Terraform, GitHub Actions
+Tools: Git, Jira, Figma, Postman, Linux
+
+PROJECTS
+Resume ATS Checker (2024) — github.com/priyasharma/ats-checker
+• Built a free ATS resume scoring tool using Flask and NLP techniques
+• Achieved 200+ users in first week with zero marketing spend
+
+E-Commerce Price Tracker (2023)
+• Built a Python scraper with Celery + Redis to track price drops across 5 e-commerce sites
+• Automated email alerts reached 500+ subscribers
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect – Associate (2023)
+• Google Cloud Professional Data Engineer (2022)
+
+ACHIEVEMENTS
+• Speaker at PyCon India 2023 — "Building Lightweight NLP Pipelines"
+• Open source contributor to FastAPI (12 merged PRs)
+• Hackathon winner — Smart India Hackathon 2019 (National Level)
+────────────────────────────────────────────
