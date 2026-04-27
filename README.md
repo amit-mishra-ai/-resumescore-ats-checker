@@ -62,7 +62,7 @@ No build step required — it's a single HTML file.
 > For production, change the `API_URL` constant at the top of `index.html`.
 
 ---
-
+ 
 ## 🧪 Testing
 
 **Quick test without a resume file:**
